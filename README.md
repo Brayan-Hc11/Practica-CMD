@@ -12,3 +12,7 @@
 - Sintaxis del comando MOVE 
 - Sintaxis del comando RENAME 
 - Sitanxis del comando Xcopy
+
+# ¿Qué es la consola de comandos o CMD?
+
+La consola de CMD, ventana de intérprete de comandos de Windows o Símbolo del sistema,(se le conoce y se puede llamar por cualquiera de los nombres anteriores), 
