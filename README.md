@@ -20,3 +20,27 @@ La consola de CMD, ventana de intérprete de comandos de Windows o Símbolo del 
 Dichos comandos están escritos en el antiguo lenguaje de Windows MSDOS. Mediante la consola de CMD se puede realizar tareas en el equipo sin usar la interface Gráfica de Windows,  ya que la instrucciones recibidas van directamente al núcleo del sistema. Con las órdenes que se introduzcan y se ejecuten en ella, se puede realizar prácticamete cualquier tipo de acción de Windows.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
