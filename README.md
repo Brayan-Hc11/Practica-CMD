@@ -10,4 +10,5 @@
 - Sintaxis del comando RD
 - Sintaxis del comando CLS
 - Sintaxis del comando MOVE 
-- 
+- Sintaxis del comando RENAME 
+- Sitanxis del comando Xcopy
