@@ -46,3 +46,47 @@ Para poder acceder a la ventana de CMD tenemos tres formas acontinuación;
 |----------|-------------------------------------------|--------------------------|
 |MD        | Crear un directorio o arbol de directorios|MD [nombre del directorio]|
 
+## Syntaxis del comando: COPY CON
+
+| Comando  | Accion                                    | syntaxis                         | 
+|----------|-------------------------------------------|----------------------------------|
+|COPY CON  |Nos permite crear archivos de texto        |COPY CON [ruta/nombre del archivo]|
+
+## Syntaxis del comando: TYPE
+
+| Comando  | Accion                                                    | syntaxis                | 
+|----------|-----------------------------------------------------------|-------------------------|
+|TYPE      |Nos permite visualizar le contenido de un archivo de texto |TYPE [nombre del archivo]|
+
+## Syntaxis del comando: RENAME
+
+| Comando  | Accion                                         | syntaxis                                       | 
+|----------|------------------------------------------------|------------------------------------------------|
+|RENAME    |Nos permite renombrar un archivo o una carpeta  | RENAME[nombre del archivo/nombre de la carpeta]|
+
+## Syntaxis del comando: DEL/ERASE/RD
+
+| Comando    | Accion                                                      | syntaxis                                       | 
+|------------|-------------------------------------------------------------|------------------------------------------------|
+|DEL         |Nos permite eliminar el contenido de una carpeta o directorio| DEL [nombre de la carpeta]                     |
+|ERASE       |Nos permite eliminar un archivo                              | ERASE [nombre del archivo]                     |
+|RD          |Nos permite eliminar un directorio vacio                     | RD [nombre del directorio]                     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
