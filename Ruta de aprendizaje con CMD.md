@@ -26,51 +26,51 @@ Para poder acceder a la ventana de CMD tenemos tres formas acontinuación;
 
 ***
 
-## Syntaxis del comando: DIR
+## Sintaxis del comando: DIR
 
-| Comando  | Accion                               | syntaxis             | 
+| Comando  | Accion                               | sintaxis             | 
 |----------|--------------------------------------|----------------------|
 |DIR       | Listar el contenido de un directorio |DIR[unidad\directorio]|
 
 ## Syntaxis del comando: CLS
 
-| Comando  | Accion                               | syntaxis             | 
+| Comando  | Accion                               | sintaxis             | 
 |----------|--------------------------------------|----------------------|
 |CLS       | Limpiar la pantalla de la terminal   |CLS                   |
 
 ## Syntaxis del comando: CD
 
-| Comando | Accion                                              | syntaxis                 | variantes        |
+| Comando | Accion                                              | sintaxis                 | variantes        |
 |---------|-----------------------------------------------------|--------------------------|------------------|
 |CD       | Sirve para movernos por los directorios del sistema.|CD + nombre de la carpeta |CD. CD.. CD/ CD../|
 
 ## Syntaxis del comando: MD
 
-| Comando  | Accion                                    | syntaxis                 | 
+| Comando  | Accion                                    | sintaxis                 | 
 |----------|-------------------------------------------|--------------------------|
 |MD        | Crear un directorio o arbol de directorios|MD [nombre del directorio]|
 
 ## Syntaxis del comando: COPY CON
 
-| Comando  | Accion                                    | syntaxis                         | 
+| Comando  | Accion                                    | sintaxis                         | 
 |----------|-------------------------------------------|----------------------------------|
 |COPY CON  |Nos permite crear archivos de texto        |COPY CON [ruta/nombre del archivo]|
 
 ## Syntaxis del comando: TYPE
 
-| Comando  | Accion                                                    | syntaxis                | 
+| Comando  | Accion                                                    | sintaxis                | 
 |----------|-----------------------------------------------------------|-------------------------|
 |TYPE      |Nos permite visualizar le contenido de un archivo de texto |TYPE [nombre del archivo]|
 
 ## Syntaxis del comando: RENAME
 
-| Comando  | Accion                                         | syntaxis                                       | 
+| Comando  | Accion                                         | sintaxis                                       | 
 |----------|------------------------------------------------|------------------------------------------------|
 |RENAME    |Nos permite renombrar un archivo o una carpeta  | RENAME[nombre del archivo/nombre de la carpeta]|
 
 ## Syntaxis del comando: DEL/ERASE/RD
 
-| Comando    | Accion                                                      | syntaxis                                       | 
+| Comando    | Accion                                                      | sintaxis                                       | 
 |------------|-------------------------------------------------------------|------------------------------------------------|
 |DEL         |Nos permite eliminar el contenido de una carpeta o directorio| DEL [nombre de la carpeta]                     |
 |ERASE       |Nos permite eliminar un archivo                              | ERASE [nombre del archivo]                     |
